@@ -18,4 +18,5 @@
 ### About dataset :
  - Source : https://www.kaggle.com/PromptCloudHQ/imdb-data
  - IMDB Dataset from 2006 -2016
+ - DataSET Length  : 1000 rows
  - View dataset details on dataset_details.png
