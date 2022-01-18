@@ -20,3 +20,6 @@
  - IMDB Dataset from 2006 -2016
  - DataSET Length  : 1000 rows
  - View dataset details on dataset_details.png
+ - Name of Database  : movies
+ - Collection Name : movies_details
+
