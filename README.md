@@ -1,4 +1,4 @@
-# nosql_projet
+# Python MongoDB Project 
 
 ### contributors : 
   - MOHAMED YASSINE ESSAMADI
